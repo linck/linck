@@ -17,7 +17,7 @@
 - 🚀 Me aventuro também em outras tecnologias como **React Native**, **Node.js**, **TypeScript**, **C#**, **Xamarin** e soluções para web/mobile.
 - 🏢 Atualmente em: @MercadoLivre
 - 🌎 João Pessoa - PB, Brasil
-- 💡 Sempre aprendendo, sempre compartilhando!
+- 💡 Sempre aprendendo!
 
 ---
 
