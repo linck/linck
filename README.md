@@ -21,20 +21,13 @@
 
 ---
 
-## 🛠️ **Skills & Ferramentas**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linck&layout=compact&theme=react&hide_border=true" height="165"/>
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,react,typescript,javascript,sqlite,mysql,git,github,linux,vscode" />
 </div>
-
----
-
-## 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linck&show_icons=true&theme=react&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linck&layout=compact&theme=react&hide_border=true" height="165"/>
-</p>
 
 ---
 
@@ -45,16 +38,6 @@
 - [protontype/proton-cluster](https://github.com/protontype/proton-cluster) — Starter clusterizado para Node.js
 - [ezra-app/ezra-ionic](https://github.com/ezra-app/ezra-ionic) — App Ionic para relatórios de serviço voluntário
 - [iso8583-validator](https://github.com/linck/iso8583-validator) — Ferramenta para testes de mensageria ISO8583
-
----
-
-## 🏆 **Conquistas & Comunidade**
-
-- Arctic Code Vault Contributor ❄️
-- Pull Shark x3 🦈
-- Quickdraw ⚡
-- Pair Extraordinaire x3 🤝
-- Membro de @DevLogger, @protontype, @ezra-app
 
 ---
 
