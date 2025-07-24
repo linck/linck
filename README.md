@@ -60,7 +60,7 @@
 
 ## 📫 **Contato**
 
-- 🌐 [humbertomachado.com.br](https://humbertomachado.com.br)
+- 🌐 [humbertomachado.com.br](http://humbertomachado.com.br)
 - 📧 betolinck@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/humberto-machado-284973123/)
 
