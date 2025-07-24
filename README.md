@@ -24,7 +24,7 @@
 ## 🛠️ **Skills & Ferramentas**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,xamarin,react,reactnative,nodejs,typescript,javascript,expo,sqlite,postgres,git,github,figma,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cs,react,typescript,javascript,sqlite,mysql,git,github,linux,vscode" />
 </div>
 
 ---
