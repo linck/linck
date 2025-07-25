@@ -1,10 +1,6 @@
-<!-- Banner animado ou imagem de destaque -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B7C85,100:E67E51&height=180&section=header&text=Humberto%20Machado%20%7C%20linck&fontSize=38&fontAlignY=35&desc=Desenvolvedor%20de%20Solftware&descSize=20&descAlign=60"/>
-</p>
 
 <p align="center">
-  <a href="https://humbertomachado.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-2B7C85?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="http://humbertomachado.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-2B7C85?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:betolinck@gmail.com"><img src="https://img.shields.io/badge/Email-E67E51?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/humberto-machado-284973123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -46,9 +42,3 @@
 - 🌐 [humbertomachado.com.br](http://humbertomachado.com.br)
 - 📧 betolinck@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/humberto-machado-284973123/)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E67E51&height=120&section=footer"/>
-</p> 
